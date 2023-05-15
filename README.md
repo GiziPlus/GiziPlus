@@ -1,5 +1,4 @@
-![ezgif com-resize](https://github.com/GiziPlus/GiziPlus/assets/133666747/1cfc8638-aba9-4816-bcb6-3b1a1aefc809)
-
+![ezgif com-resize](https://github.com/GiziPlus/GiziPlus/assets/133666747/004eab6c-af7a-477a-88a8-9a3df766de5f)
 
 <h1 align="center">Hi 👋, We're GiziPlus</h1>
 <h3 align="center">GiziPlus: Lebih dari Sekedar Aplikasi Gizi, Ini adalah Gaya Hidup Sehat Anda</h3>

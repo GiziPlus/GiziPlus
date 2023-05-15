@@ -1,8 +1,7 @@
-![ezgif com-resize](https://github.com/GiziPlus/GiziPlus/assets/133666747/5a0d26fc-a9cb-41c3-b2b0-dd0937e3313b)
+![ezgif com-resize](https://github.com/GiziPlus/GiziPlus/assets/133666747/ea99b4fc-10b3-4ef9-819e-98a39c27abad)
 
 
-
-<h1 align="center">Hi 👋, I'm GiziPlus</h1>
+<h1 align="center">Hi 👋, We're GiziPlus</h1>
 <h3 align="center">GiziPlus: Lebih dari Sekedar Aplikasi Gizi, Ini adalah Gaya Hidup Sehat Anda</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giziplus&label=Profile%20views&color=0e75b6&style=flat" alt="giziplus" /> </p>

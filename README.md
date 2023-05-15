@@ -1,4 +1,5 @@
-![ezgif com-resize](https://github.com/GiziPlus/GiziPlus/assets/133666747/e91ef830-9b63-44bc-9e15-c4fceaa6de56)
+![ezgif com-resize](https://github.com/GiziPlus/GiziPlus/assets/133666747/5a0d26fc-a9cb-41c3-b2b0-dd0937e3313b)
+
 
 
 <h1 align="center">Hi 👋, I'm GiziPlus</h1>

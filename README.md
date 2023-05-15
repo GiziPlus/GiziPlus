@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/lQDdDwdZpfYRn1MsJy" width="480" height="366" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tecnocorp-tecnologia-tecnocorptecnologia-ti-osasco-lQDdDwdZpfYRn1MsJy">via GIPHY</a></p>
+![giphy](https://github.com/GiziPlus/GiziPlus/assets/133666747/f8c225e0-f23f-44ed-95e7-87fd3ace02b0)
 
 <h1 align="center">Hi 👋, I'm GiziPlus</h1>
 <h3 align="center">GiziPlus: Lebih dari Sekedar Aplikasi Gizi, Ini adalah Gaya Hidup Sehat Anda</h3>

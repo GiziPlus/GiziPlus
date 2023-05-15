@@ -1,4 +1,4 @@
-![ezgif com-resize](https://github.com/GiziPlus/GiziPlus/assets/133666747/ea99b4fc-10b3-4ef9-819e-98a39c27abad)
+![ezgif com-resize](https://github.com/GiziPlus/GiziPlus/assets/133666747/1cfc8638-aba9-4816-bcb6-3b1a1aefc809)
 
 
 <h1 align="center">Hi 👋, We're GiziPlus</h1>
@@ -6,15 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giziplus&label=Profile%20views&color=0e75b6&style=flat" alt="giziplus" /> </p>
 
-- 🔭 I’m currently working on **GiziPlus Project**
+- 🔭 We're currently working on **GiziPlus Project**
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript**
+- 🌱 We're currently learning **HTML, CSS, Javascript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/GiziPlus/](https://github.com/GiziPlus/)
+- 👨‍💻 All of our projects are available at [https://github.com/GiziPlus/](https://github.com/GiziPlus/)
 
-- 💬 Ask me about **GiziPlus Capstone Project**
+- 💬 Ask us about **GiziPlus Capstone Project**
 
-- 📫 How to reach me **giziplus4@gmail.com**
+- 📫 How to reach us **giziplus4@gmail.com**
 
 - ⚡ Fun fact **Enjoy Project Teams**
 
